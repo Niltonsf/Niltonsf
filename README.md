@@ -1,7 +1,7 @@
 <h1 align="center" >Hi there 👋</h1>
 
 ## 👨 About me :
- *I'm Nilton Antonio Schumacher Filho. Currently I'm a Full Stack Enginner at Crowdform. I also have experience with web and desktop development, C, C++, Java and Python. Have been taking some time to learn solidity too.*
+ *I'm Nilton Antonio Schumacher Filho. Currently I'm a Full Stack Enginner at Crowdform. I have experience with web and desktop development, C, C++, Java and Python. Have been taking some time to learn solidity too.*
 
 *Currently I'm working with Nest.js in the beckend for Android, iOS and Web.* 📱 🖥️ 
 
