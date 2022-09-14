@@ -1,7 +1,7 @@
 <h1 align="center" >Hi there 👋</h1>
 
 ## 👨 About me :
- *I'm Nilton Antonio Schumacher Filho. Currently I'm a Full Stack Enginner at Crowdform. I have experience with web and desktop development. Some of my coding languages are C, C++, Java, Python, React, React Native, NodeJS.*
+ *I'm Nilton Antonio Schumacher Filho. Currently I'm a Full Stack Enginner at Crowdform mainly working on the Backend. I have experience with web, mobile development. Some of my coding languages are React, React Native, NodeJS, Python.*
 
 *Currently I'm working with Nest.js in the beckend for Android, iOS and Web.* 📱 🖥️ 
 
