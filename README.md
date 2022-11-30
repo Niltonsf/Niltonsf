@@ -5,7 +5,7 @@
 const aboutMe = {
   name: "Nilton A Schumacher Filho",
   age: 21,
-  status: "I'm Nilton Antonio Schumacher Filho. Currently I'm a Full Stack Enginner at Crowdform mainly working on the Backend. I have experience with web, mobile development. Some of my coding languages are React, React Native, NodeJS, Python.",
+  status: "Available",
   hobbies: [
     "cars",
     "games",
@@ -28,9 +28,13 @@ const aboutMe = {
 function alwaysBeHappy() {
   return "Always be happy, offer help and deliver!"
 }
-```
 
-*Currently I'm working with Nest.js in the beckend for Android, iOS and Web.* 📱 🖥️ 
+function contactMe() {
+  const phone = "41 991614400"
+  const email = "nilton.schumacher.filho@gmail.com"
+  return { phone, email }
+}
+```
 
 <div align="center">
   <a href="https://github.com/Niltonsf">
