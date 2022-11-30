@@ -1,7 +1,34 @@
 <h1 align="center" >Hi there 👋</h1>
 
 ## 👨 About me :
- *I'm Nilton Antonio Schumacher Filho. Currently I'm a Full Stack Enginner at Crowdform mainly working on the Backend. I have experience with web, mobile development. Some of my coding languages are React, React Native, NodeJS, Python.*
+```
+const aboutMe = {
+  name: "Nilton A Schumacher Filho",
+  age: 21,
+  status: "I'm Nilton Antonio Schumacher Filho. Currently I'm a Full Stack Enginner at Crowdform mainly working on the Backend. I have experience with web, mobile development. Some of my coding languages are React, React Native, NodeJS, Python.",
+  hobbies: [
+    "cars",
+    "games",
+    "3d"
+  ],
+  code: [
+    "Javascript", 
+    "Typescript", 
+    "React", 
+    "React Native", 
+    "NodeJS
+  "],
+  softSkills: [
+    "communication",
+    "cooperative",
+    "helpful"
+   ]
+}
+
+function alwaysBeHappy() {
+  return "Always be happy and offet help!"
+}
+```
 
 *Currently I'm working with Nest.js in the beckend for Android, iOS and Web.* 📱 🖥️ 
 
