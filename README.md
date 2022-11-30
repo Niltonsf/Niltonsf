@@ -26,7 +26,7 @@ const aboutMe = {
 }
 
 function alwaysBeHappy() {
-  return "Always be happy and offet help!"
+  return "Always be happy, offer help and deliver!"
 }
 ```
 
