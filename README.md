@@ -1,7 +1,7 @@
 <h1 align="center" >Hi there 👋</h1>
 
 ## 👨 About me :
-```
+```JS
 const aboutMe = {
   name: "Nilton A Schumacher Filho",
   age: 21,
