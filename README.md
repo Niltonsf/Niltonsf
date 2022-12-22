@@ -16,8 +16,9 @@ const aboutMe = {
     "Typescript", 
     "React", 
     "React Native", 
-    "NodeJS
-  "],
+    "NodeJS",
+    "Three.js"
+  ],
   softSkills: [
     "communication",
     "cooperative",
