@@ -31,7 +31,7 @@ function alwaysBeHappy() {
 }
 
 function contactMe() {
-  const phone = "41 991614400"
+  const phone = "+55 41 991614400"
   const email = "nilton.schumacher.filho@gmail.com"
   return { phone, email }
 }
