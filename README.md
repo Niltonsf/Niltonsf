@@ -4,8 +4,7 @@
 ```JS
 const aboutMe = {
   name: "Nilton A Schumacher Filho",
-  age: 21,
-  status: "Available",
+  age: 23,
   hobbies: [
     "cars",
     "games",
@@ -15,8 +14,7 @@ const aboutMe = {
     "Javascript", 
     "Typescript", 
     "React", 
-    "React Native", 
-    "NodeJS",
+    "React Native",
     "Three.js"
   ],
   softSkills: [
