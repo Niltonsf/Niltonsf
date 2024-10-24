@@ -53,26 +53,12 @@ This are some of the technologies I work with
  <img height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-## 🔥 My Favorite Repos :
-<div align="center">
-  <a href="https://github.com/Niltonsf/gofinances">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Niltonsf&repo=gofinances&theme=react&hide_border=true" />
-  </a>
-  <a href="https://github.com/Niltonsf/ignews">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Niltonsf&repo=ignews&theme=react&hide_border=true" />
-  </a>
-</div>
-
 ## :speech_balloon: Contact me : 
   
 <div align="center">
   <a href="https://github.com/Niltonsf"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank">     </a>
-  <a href="https://instagram.com/niltonsf_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-                           badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:nilton.schumacher.filho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ff9800?style=for-the-badge&logo=gmail&logoColor=white"         target="_blank"></a>  
   <a href="https://www.linkedin.com/in/nilton-ant%C3%B4nio-schumacher-filho-0ab77b183/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-## 🐍 Commit Eater : 
-![Snake animation](https://github.com/Niltonsf/Niltonsf/blob/output/github-contribution-grid-snake.svg)
 
   
