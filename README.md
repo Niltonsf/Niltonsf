@@ -4,5 +4,5 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat-square)](mailto:nilton.schumacher.filho@gmail.com)
 [![Website](https://img.shields.io/badge/Website-Visit-brightgreen?logo=google-chrome&style=flat-square)](https://niltonsf.dev)
 
-I'm a Frontend Developer.
+I'm a Full Stack Developer, I think.
 
